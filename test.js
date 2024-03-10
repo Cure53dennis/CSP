@@ -1,1 +1,1 @@
-alert(2131);
+alert(document.origin);
